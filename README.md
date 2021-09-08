@@ -13,7 +13,6 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Dockerfile](#dockerfile)
-  - [Elixir](#elixir)
   - [Elm](#elm)
   - [Go](#go)
   - [HTML](#html)
@@ -26,6 +25,7 @@
   - [Markdown](#markdown)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is a cross-platform image compression software aimed at helping photographers, bloggers, webmasters, businesses or casual users at storing, sending and sharing digital pictures. Based on libcaesium.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [kristiankoskimaki/vidupe](https://github.com/kristiankoskimaki/vidupe) - Vidupe is a program that can find duplicate and similar video files. V1.211 released on 2019-09-18, Windows exe here:
 - [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl) - A program to search similar and defect pictures on the disk
@@ -88,10 +89,6 @@
 ## Dockerfile 
 
 - [linuxserver/docker-pyload](https://github.com/linuxserver/docker-pyload) - 
-
-## Elixir 
-
-- [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
 ## Elm 
 
@@ -139,7 +136,6 @@
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 - [dukke/FXRibbon](https://github.com/dukke/FXRibbon) - Ribbon control for Java, created in JavaFX
 - [sshahine/JFoenix](https://github.com/sshahine/JFoenix) - JavaFX Material Design Library
-- [Phoenix09/filebot](https://github.com/Phoenix09/filebot) - This is a fork of FileBot with an up-to-date JAR and MSI installer with the donate nag removed.
 
 ## JavaScript 
 
@@ -253,6 +249,10 @@
 - [30-seconds/30-seconds-of-php](https://github.com/30-seconds/30-seconds-of-php) - Short PHP code snippets for all your development needs
 - [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - 🚀 A Next Generation Private Torrent Tracker (Community Edition)
 - [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open source application for managing your invoices, clients and payments.
+
+## Pascal 
+
+- [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 
 ## Perl 
 
