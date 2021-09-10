@@ -13,6 +13,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Dockerfile](#dockerfile)
+  - [Elixir](#elixir)
   - [Elm](#elm)
   - [Go](#go)
   - [HTML](#html)
@@ -89,6 +90,10 @@
 ## Dockerfile 
 
 - [linuxserver/docker-pyload](https://github.com/linuxserver/docker-pyload) - 
+
+## Elixir 
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Elm 
 
@@ -338,6 +343,7 @@
 
 ## Shell 
 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [SolidHal/multidisabler-samsung-keep-encryption](https://github.com/SolidHal/multidisabler-samsung-keep-encryption) - Disables proca, Vaultkeeper and auto-reflash of stock recovery on Samsung Pie devices, including S10, N10, A10 - A50 and Tab A 10.1.
 - [Joentje/nordvpn-proxy](https://github.com/Joentje/nordvpn-proxy) - Use NordVPN in your Docker stack
 - [jlesage/docker-filebot](https://github.com/jlesage/docker-filebot) - Docker container for FileBot
