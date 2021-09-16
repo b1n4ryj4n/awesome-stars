@@ -12,6 +12,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Elm](#elm)
@@ -87,6 +88,10 @@
 
 - [electron/mini-breakpad-server](https://github.com/electron/mini-breakpad-server) - Minimum breakpad crash reports collecting server
 
+## Dart 
+
+- [ReceiptManager/receipt-manager-app](https://github.com/ReceiptManager/receipt-manager-app) - Receipt parser application written in dart.
+
 ## Dockerfile 
 
 - [linuxserver/docker-pyload](https://github.com/linuxserver/docker-pyload) - 
@@ -101,6 +106,7 @@
 
 ## Go 
 
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
@@ -149,6 +155,7 @@
 
 ## JavaScript 
 
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
@@ -249,6 +256,7 @@
 
 ## PHP 
 
+- [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX, Screencloud support and more
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
 - [kcal-app/kcal](https://github.com/kcal-app/kcal) - the personal food nutrition journal
@@ -276,8 +284,11 @@
 
 ## Python 
 
+- [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted Youtube media server
+- [ReceiptManager/receipt-parser-server](https://github.com/ReceiptManager/receipt-parser-server) - Receipt parser server written in python.
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
-- [myelsukov/koreader-sync](https://github.com/myelsukov/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [ChoiceCoin/Voting](https://github.com/ChoiceCoin/Voting) - A repository for voting systems using Choice Coin.
 - [python-mario/mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell
@@ -356,6 +367,7 @@
 
 ## Shell 
 
+- [Pe46dro/XBackBone-docker](https://github.com/Pe46dro/XBackBone-docker) - This is the Docker image for XBackBone ~ based on webdevops/php-nginx.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [SolidHal/multidisabler-samsung-keep-encryption](https://github.com/SolidHal/multidisabler-samsung-keep-encryption) - Disables proca, Vaultkeeper and auto-reflash of stock recovery on Samsung Pie devices, including S10, N10, A10 - A50 and Tab A 10.1.
 - [Joentje/nordvpn-proxy](https://github.com/Joentje/nordvpn-proxy) - Use NordVPN in your Docker stack
