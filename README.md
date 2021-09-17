@@ -11,8 +11,6 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
-  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Elm](#elm)
@@ -62,6 +60,7 @@
 
 ## C++ 
 
+- [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - RSS Guard is simple feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is a cross-platform image compression software aimed at helping photographers, bloggers, webmasters, businesses or casual users at storing, sending and sharing digital pictures. Based on libcaesium.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [kristiankoskimaki/vidupe](https://github.com/kristiankoskimaki/vidupe) - Vidupe is a program that can find duplicate and similar video files. V1.211 released on 2019-09-18, Windows exe here:
@@ -84,16 +83,12 @@
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
-## CoffeeScript 
-
-- [electron/mini-breakpad-server](https://github.com/electron/mini-breakpad-server) - Minimum breakpad crash reports collecting server
-
-## Dart 
-
-- [ReceiptManager/receipt-manager-app](https://github.com/ReceiptManager/receipt-manager-app) - Receipt parser application written in dart.
-
 ## Dockerfile 
 
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
+- [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
+- [linuxserver/docker-heimdall](https://github.com/linuxserver/docker-heimdall) - 
+- [linuxserver/docker-freshrss](https://github.com/linuxserver/docker-freshrss) - 
 - [linuxserver/docker-pyload](https://github.com/linuxserver/docker-pyload) - 
 
 ## Elixir 
@@ -256,6 +251,8 @@
 
 ## PHP 
 
+- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX, Screencloud support and more
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
@@ -285,7 +282,6 @@
 ## Python 
 
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted Youtube media server
-- [ReceiptManager/receipt-parser-server](https://github.com/ReceiptManager/receipt-parser-server) - Receipt parser server written in python.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -399,6 +395,7 @@
 
 ## Vue 
 
+- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Zibbp/Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki) - AniList Anime Tracker - built with Love & Vue.js
