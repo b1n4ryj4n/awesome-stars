@@ -367,6 +367,7 @@
 
 ## Shell 
 
+- [suaefar/ryzen-test](https://github.com/suaefar/ryzen-test) - Tools to reproduce randomly crashing processes under load on AMD Ryzen processors on Linux
 - [Pe46dro/XBackBone-docker](https://github.com/Pe46dro/XBackBone-docker) - This is the Docker image for XBackBone ~ based on webdevops/php-nginx.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [SolidHal/multidisabler-samsung-keep-encryption](https://github.com/SolidHal/multidisabler-samsung-keep-encryption) - Disables proca, Vaultkeeper and auto-reflash of stock recovery on Samsung Pie devices, including S10, N10, A10 - A50 and Tab A 10.1.
