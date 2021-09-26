@@ -52,6 +52,7 @@
 
 ## C# # 
 
+- [dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android](https://github.com/dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android) - Wireless TWAIN Document Scan on Android
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 - [nostrenz/hatate-iqdb-tagger](https://github.com/nostrenz/hatate-iqdb-tagger) - Search and tag images using IQDB or SauceNAO to be imported into Hydrus.
