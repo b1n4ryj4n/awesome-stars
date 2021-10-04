@@ -134,6 +134,7 @@
 
 ## HTML 
 
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists | privacy. security. & clean browsing!
 - [vabene1111/recipes](https://github.com/vabene1111/recipes) - Django application for managing recipes
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog. V2 - https://hugo-profile-2.netlify.app/
@@ -156,6 +157,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [jc21/nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -398,6 +400,7 @@
 
 ## TypeScript 
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
