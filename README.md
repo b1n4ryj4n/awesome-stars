@@ -424,7 +424,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [NicoAiko/mikazuki](https://github.com/NicoAiko/mikazuki) - AniList Anime Tracker - built with Love & Vue.js
 - [anshumanv/vueman.ga](https://github.com/anshumanv/vueman.ga) - Delightful reading and tracking of your mangas.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
 
 
 ## License
