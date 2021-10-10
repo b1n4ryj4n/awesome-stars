@@ -135,7 +135,7 @@
 
 ## HTML 
 
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists | privacy. security. & clean browsing!
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
 - [vabene1111/recipes](https://github.com/vabene1111/recipes) - Django application for managing recipes
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog. V2 - https://hugo-profile-2.netlify.app/
