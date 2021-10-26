@@ -138,7 +138,7 @@
 
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
 - [vabene1111/recipes](https://github.com/vabene1111/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog. V2 - https://hugo-profile-2.netlify.app/
+- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
 
 ## Java 
