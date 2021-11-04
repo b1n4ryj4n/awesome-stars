@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [jveitchmichaelis/deeplabel](https://github.com/jveitchmichaelis/deeplabel) - A cross-platform desktop image annotation tool for machine learning
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - RSS Guard is simple feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is a cross-platform image compression software aimed at helping photographers, bloggers, webmasters, businesses or casual users at storing, sending and sharing digital pictures. Based on libcaesium.
