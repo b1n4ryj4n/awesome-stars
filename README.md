@@ -52,6 +52,7 @@
 
 ## C# # 
 
+- [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - ⛰ A lightweight, versatile image viewer
 - [dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android](https://github.com/dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android) - Wireless TWAIN Document Scan on Android
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
@@ -138,7 +139,6 @@
 ## HTML 
 
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
-- [ChoiceCoin/Voting](https://github.com/ChoiceCoin/Voting) - A repository for voting systems using Choice Coin.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
@@ -309,6 +309,7 @@
 - [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [ChoiceCoin/Voting](https://github.com/ChoiceCoin/Voting) - A repository for voting systems using Choice Coin.
 - [python-mario/mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell
 - [cinnamon-rolls/hydrus-tag-linter](https://github.com/cinnamon-rolls/hydrus-tag-linter) - Hydrus Network Client API application that makes it easier to keep your Hydrus tags in shape
 - [ReceiptManager/receipt-parser-legacy](https://github.com/ReceiptManager/receipt-parser-legacy) - A supermarket receipt parser written in Python using tesseract OCR
