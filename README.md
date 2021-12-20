@@ -200,7 +200,7 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [shaack/electron-bootstrap-starter](https://github.com/shaack/electron-bootstrap-starter) - Electron with Bootstrap 4 starter project
 - [happypandax/desktop](https://github.com/happypandax/desktop) - A client for HappyPanda X on the desktop
-- [rejetto/hfs](https://github.com/rejetto/hfs) - HTTP File Server
+- [rejetto/hfs-aborted-see-new-repo](https://github.com/rejetto/hfs-aborted-see-new-repo) - HTTP File Server
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
