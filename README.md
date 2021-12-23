@@ -94,6 +94,7 @@
 
 ## Dockerfile 
 
+- [aschmelyun/docker-compose-laravel](https://github.com/aschmelyun/docker-compose-laravel) - A docker-compose workflow for local Laravel development
 - [linuxserver/docker-projectsend](https://github.com/linuxserver/docker-projectsend) - 
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
@@ -245,6 +246,7 @@
 
 ## Others 
 
+- [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
