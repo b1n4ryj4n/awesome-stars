@@ -35,6 +35,7 @@
   - [Twig](#twig)
   - [TypeScript](#typescript)
   - [VBA](#vba)
+  - [Vim script](#vim-script)
   - [Vue](#vue)
 
 ## AutoHotkey 
@@ -54,6 +55,7 @@
 
 ## C# # 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android](https://github.com/dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android) - Wireless TWAIN Document Scan on Android
@@ -115,6 +117,7 @@
 
 ## Go 
 
+- [sberk42/fritzbox_exporter](https://github.com/sberk42/fritzbox_exporter) - Fritz!Box Upnp statistics exporter for prometheus
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -321,6 +324,7 @@
 
 ## Python 
 
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [VoidlessVoid7/quora-plus-bypass](https://github.com/VoidlessVoid7/quora-plus-bypass) - A python script to extract answers to any question on Quora (Quora+ included)
 - [tzutalin/labelImg](https://github.com/tzutalin/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
@@ -342,7 +346,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [bbilly1/tubearchivist](https://github.com/bbilly1/tubearchivist) - Your self hosted YouTube media server
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
-- [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Quick and dirty implementation of the KOReader position sync server for self-hosting at home :)
+- [b1n4ryj4n/koreader-sync](https://github.com/b1n4ryj4n/koreader-sync) - Simple implementation of the KOReader position sync server for self-hosting at home :)
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [python-mario/mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell
@@ -465,6 +469,10 @@
 ## VBA 
 
 - [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon) - A free portable photo editor focused on pro-grade features, high performance, and maximum usability.
+
+## Vim script 
+
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 
 ## Vue 
 
