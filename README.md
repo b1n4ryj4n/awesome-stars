@@ -20,6 +20,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [LiveScript](#livescript)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
@@ -98,6 +99,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant) - 
 - [aschmelyun/docker-compose-laravel](https://github.com/aschmelyun/docker-compose-laravel) - A docker-compose workflow for local Laravel development
 - [linuxserver/docker-projectsend](https://github.com/linuxserver/docker-projectsend) - 
 - [linuxserver/docker-grocy](https://github.com/linuxserver/docker-grocy) - A container for grocy - the ERP application for your kitchen https://grocy.info
@@ -155,7 +157,6 @@
 
 ## HTML 
 
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
@@ -237,6 +238,10 @@
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager) - Vanced Installer
 - [Utazukin/Ichaival](https://github.com/Utazukin/Ichaival) - Android client for the LANraragi manga/doujinshi web manager.
+
+## LiveScript 
+
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - DNS filter-/blocklists for privacy. security. & clean browsing!
 
 ## Lua 
 
@@ -456,7 +461,7 @@
 
 - [BateleurIO/vscode-combine-files](https://github.com/BateleurIO/vscode-combine-files) - Creates a single combined script from several SQL files.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
