@@ -46,6 +46,7 @@
 
 ## C 
 
+- [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -75,7 +76,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [jveitchmichaelis/deeplabel](https://github.com/jveitchmichaelis/deeplabel) - A cross-platform desktop image annotation tool for machine learning
-- [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - RSS Guard is simple feed reader which supports RSS/ATOM/JSON and many web-based feed services.
+- [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is a cross-platform image compression software aimed at helping photographers, bloggers, webmasters, businesses or casual users at storing, sending and sharing digital pictures. Based on libcaesium.
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [kristiankoskimaki/vidupe](https://github.com/kristiankoskimaki/vidupe) - Vidupe is a program that can find duplicate and similar video files. V1.211 released on 2019-09-18, Windows exe here:
