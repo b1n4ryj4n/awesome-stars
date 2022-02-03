@@ -340,6 +340,7 @@
 
 ## Python 
 
+- [petretiandrea/home-assistant-tapo-p100](https://github.com/petretiandrea/home-assistant-tapo-p100) - A custom integration to control Tapo devices from home assistant.
 - [Rockhopper-Technologies/pluginlib](https://github.com/Rockhopper-Technologies/pluginlib) - A framework for creating and importing plugins in Python
 - [mitsuhiko/pluginbase](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
