@@ -280,7 +280,7 @@
 - [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling) - A curated list of awesome data labeling tools
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
-- [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - All of GitHub's finest.
+- [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - Top 12K of GitHub's finest.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [manjunath5496/DevOps-Books](https://github.com/manjunath5496/DevOps-Books) - "DevOps has helped us do very frequent releases, giving us an edge on time to market. We are now able to make daily product releases as opposed to 6-month releases, and push fixes to our customers in a span of a few hours." ― Hamesh Chawla
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
