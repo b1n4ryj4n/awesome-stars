@@ -103,6 +103,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-paperless-ngx](https://github.com/linuxserver/docker-paperless-ngx) - 
 - [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) - 
 - [linuxserver/docker-netbootxyz](https://github.com/linuxserver/docker-netbootxyz) - 
 - [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant) - 
@@ -347,6 +348,7 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [polvoazul/shutup](https://github.com/polvoazul/shutup) - Stop python warnings, no matter what!
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection
