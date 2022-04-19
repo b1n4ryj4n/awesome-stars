@@ -103,6 +103,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) - 
 - [linuxserver/docker-paperless-ngx](https://github.com/linuxserver/docker-paperless-ngx) - 
 - [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) - 
 - [linuxserver/docker-netbootxyz](https://github.com/linuxserver/docker-netbootxyz) - 
@@ -341,6 +342,7 @@
 
 ## Pascal 
 
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
 - [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 
 ## Perl 
@@ -350,6 +352,7 @@
 
 ## Python 
 
+- [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) - 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
