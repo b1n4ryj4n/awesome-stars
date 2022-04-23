@@ -103,6 +103,9 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-davos](https://github.com/linuxserver/docker-davos) - Docker configuration for davos
+- [linuxserver/docker-endlessh](https://github.com/linuxserver/docker-endlessh) - 
+- [linuxserver/docker-diskover](https://github.com/linuxserver/docker-diskover) - A Docker container for the Diskover space mapping application
 - [linuxserver/docker-lychee](https://github.com/linuxserver/docker-lychee) - 
 - [linuxserver/docker-paperless-ngx](https://github.com/linuxserver/docker-paperless-ngx) - 
 - [linuxserver/docker-pyload-ng](https://github.com/linuxserver/docker-pyload-ng) - 
@@ -127,6 +130,7 @@
 
 ## Go 
 
+- [akhilrex/hammond](https://github.com/akhilrex/hammond) - Self hosted vehicle and expense management system. Like Clarkson, but better
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [sberk42/fritzbox_exporter](https://github.com/sberk42/fritzbox_exporter) - Fritz!Box Upnp statistics exporter for prometheus
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
