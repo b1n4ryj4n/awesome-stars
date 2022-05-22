@@ -102,6 +102,7 @@
 
 ## Dockerfile 
 
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [linuxserver/docker-davos](https://github.com/linuxserver/docker-davos) - Docker configuration for davos
 - [linuxserver/docker-endlessh](https://github.com/linuxserver/docker-endlessh) - 
 - [linuxserver/docker-diskover](https://github.com/linuxserver/docker-diskover) - A Docker container for the Diskover space mapping application
@@ -352,6 +353,8 @@
 
 ## Python 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) - 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
@@ -485,6 +488,7 @@
 
 ## Shell 
 
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
