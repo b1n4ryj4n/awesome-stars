@@ -427,7 +427,7 @@
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [Setogit/labelimg-data-converter](https://github.com/Setogit/labelimg-data-converter) - Converts labelimg meta data to yolo format.  See https://github.com/tzutalin/labelImg
 - [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
-- [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix) - FastFlix is a free GUI for HEVC and AV1 encoding, GIF/WebP creation, and more!
+- [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix) - FastFlix is a free GUI for HEVC and AV1 encoding, GIF/WebP/AVIF creation, and more!
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [algorand/py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) - Algorand Python SDK
 - [KichangKim/DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
