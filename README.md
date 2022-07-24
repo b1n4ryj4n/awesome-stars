@@ -498,7 +498,7 @@
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [suaefar/ryzen-test](https://github.com/suaefar/ryzen-test) - Tools to reproduce randomly crashing processes under load on AMD Ryzen processors on Linux
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [Pe46dro/XBackBone-docker](https://github.com/Pe46dro/XBackBone-docker) - This is the Docker image for XBackBone ~ based on webdevops/php-nginx.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [SolidHal/multidisabler-samsung-keep-encryption](https://github.com/SolidHal/multidisabler-samsung-keep-encryption) - Disables proca, Vaultkeeper and auto-reflash of stock recovery on Samsung Pie devices, including S10, N10, A10 - A50 and Tab A 10.1.
