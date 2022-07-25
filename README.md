@@ -172,6 +172,7 @@
 
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced general-purpose DNS filter-/blocklists!
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
 
 ## Java 
@@ -211,7 +212,6 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [nskondratev/socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server
-- [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [dobladov/koreader-node-sync-server](https://github.com/dobladov/koreader-node-sync-server) - Self hostable synchronization service for koreader devices for node.js
