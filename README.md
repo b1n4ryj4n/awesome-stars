@@ -453,7 +453,7 @@
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [algorand/py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) - Algorand Python SDK
 - [KichangKim/DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
-- [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about ML, DL, PyTorch and TensorFlow. Feedback always appreciated :)
+- [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
 - [flatplanet/Intro-To-TKinter-Youtube-Course](https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course) - 
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
