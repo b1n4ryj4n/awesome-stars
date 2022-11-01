@@ -32,6 +32,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -504,6 +505,10 @@
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [damyanbogoev/flask-bookshelf](https://github.com/damyanbogoev/flask-bookshelf) - Flask Series
 - [farzaa/DeepLeague](https://github.com/farzaa/DeepLeague) - (Open Source) Computer Vision + Deep Learning + League of Legends
+
+## R 
+
+- [OwnYourData/app-energy](https://github.com/OwnYourData/app-energy) - Dokumentiere deinen Energieverbrauch (z.B. Strom und Gas) und verstehe deinen Ressourcenbedarf.
 
 ## Ruby 
 
