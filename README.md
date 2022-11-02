@@ -66,6 +66,7 @@
 
 ## C# # 
 
+- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
@@ -298,6 +299,7 @@
 
 ## Others 
 
+- [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [hbons/git-cheat-sheet](https://github.com/hbons/git-cheat-sheet) - A cheat sheet for Git workflows.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
@@ -518,7 +520,7 @@
 
 ## Rust 
 
-- [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
+- [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
