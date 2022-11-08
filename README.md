@@ -299,6 +299,7 @@
 
 ## Others 
 
+- [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [hbons/git-cheat-sheet](https://github.com/hbons/git-cheat-sheet) - A cheat sheet for Git workflows.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
