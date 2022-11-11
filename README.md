@@ -238,7 +238,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [nskondratev/socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [dobladov/koreader-node-sync-server](https://github.com/dobladov/koreader-node-sync-server) - Self hostable synchronization service for koreader devices for node.js
 - [drainingsun/ybat](https://github.com/drainingsun/ybat) - Ybat - YOLO BBox Annotation Tool
 - [SkyCryptWebsite/SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) - A Hypixel skyblock stats website
@@ -301,6 +301,7 @@
 
 ## Others 
 
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [hbons/git-cheat-sheet](https://github.com/hbons/git-cheat-sheet) - A cheat sheet for Git workflows.
