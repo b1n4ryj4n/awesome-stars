@@ -39,8 +39,8 @@
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
-- [VBA](#vba)
 - [Vim Script](#vim-script)
+- [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 
 ## Adblock Filter List 
@@ -581,13 +581,13 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
-## VBA 
-
-- [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon) - A free portable photo editor focused on pro-grade features, high performance, and maximum usability.
-
 ## Vim Script 
 
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
+
+## Visual Basic 6.0 
+
+- [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon) - A free portable photo editor focused on pro-grade features, high performance, and maximum usability.
 
 ## Vue 
 
