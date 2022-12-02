@@ -333,6 +333,7 @@
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [TCreopargh/skyblock-tracker](https://github.com/TCreopargh/skyblock-tracker) - Chattriggers script to track Hypixel Skyblock slayer and fishing stats.
+- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - https://github.com/Hasnayeen/legacy-goodwork
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -361,7 +362,6 @@
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
 - [kcal-app/kcal](https://github.com/kcal-app/kcal) - the personal food nutrition journal
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
-- [Hasnayeen/goodwork](https://github.com/Hasnayeen/goodwork) - Self hosted project management and collaboration tool powered by TALL stack
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
