@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -104,7 +105,6 @@
 ## CSS 
 
 - [ChoiceCoin/Voting](https://github.com/ChoiceCoin/Voting) - A repository for voting systems using Choice Coin.
-- [taroved/pol](https://github.com/taroved/pol) - RSS generator website
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 
 ## Clojure 
@@ -281,6 +281,10 @@
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [Utazukin/Ichaival](https://github.com/Utazukin/Ichaival) - Android client for the LANraragi manga/doujinshi web manager.
+
+## Less 
+
+- [taroved/pol](https://github.com/taroved/pol) - RSS generator website
 
 ## Lua 
 
