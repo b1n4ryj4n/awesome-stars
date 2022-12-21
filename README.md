@@ -81,6 +81,7 @@
 
 ## C++ 
 
+- [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [theophanemayaud/video-simili-duplicate-cleaner](https://github.com/theophanemayaud/video-simili-duplicate-cleaner) - 
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [thumbcacheviewer/thumbcacheviewer](https://github.com/thumbcacheviewer/thumbcacheviewer) - Thumbcache Viewer - Extract Windows Vista, Windows 7, Windows 8, Windows 8.1, and Windows 10 thumbcache database files.
@@ -105,7 +106,6 @@
 ## CSS 
 
 - [ChoiceCoin/Voting](https://github.com/ChoiceCoin/Voting) - A repository for voting systems using Choice Coin.
-- [Hasnayeen/larks](https://github.com/Hasnayeen/larks) - https://github.com/Hasnayeen/goodwork
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 
 ## Clojure 
@@ -537,6 +537,7 @@
 - [Farmadupe/vid_dup_finder_lib](https://github.com/Farmadupe/vid_dup_finder_lib) - a rust library to find near-duplicate video files
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [Hasnayeen/larks](https://github.com/Hasnayeen/larks) - https://github.com/Hasnayeen/goodwork
 
 ## SCSS 
 
