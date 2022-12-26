@@ -137,6 +137,7 @@
 
 ## Elixir 
 
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Elm 
@@ -190,6 +191,7 @@
 
 ## HTML 
 
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
 - [bit-bots/imagetagger](https://github.com/bit-bots/imagetagger) - An open source online platform for collaborative image labeling
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
@@ -220,6 +222,7 @@
 
 ## JavaScript 
 
+- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
@@ -391,6 +394,8 @@
 
 ## Python 
 
+- [iguana-project/iguana](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board.
+- [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Transparent persistent cache for python requests
