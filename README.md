@@ -80,6 +80,7 @@
 - [dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android](https://github.com/dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android) - Wireless TWAIN Document Scan on Android
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
+- [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl) - A program to search similar and defect pictures on the disk
 - [nostrenz/hatate-iqdb-tagger](https://github.com/nostrenz/hatate-iqdb-tagger) - Search and tag images using IQDB or SauceNAO to be imported into Hydrus.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
@@ -100,7 +101,6 @@
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
 - [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [kristiankoskimaki/vidupe](https://github.com/kristiankoskimaki/vidupe) - Vidupe is a program that can find duplicate and similar video files. V1.211 released on 2019-09-18, Windows exe here:
-- [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl) - A program to search similar and defect pictures on the disk
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
