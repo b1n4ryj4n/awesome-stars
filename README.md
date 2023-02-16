@@ -89,6 +89,7 @@
 
 ## C++ 
 
+- [scrubbbbs/cbird](https://github.com/scrubbbbs/cbird) - Command-line program for managing a media collection, with focus on Content-Based Image Retrieval (Computer Vision) methods for finding duplicates.
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [theophanemayaud/video-simili-duplicate-cleaner](https://github.com/theophanemayaud/video-simili-duplicate-cleaner) - 
