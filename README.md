@@ -47,6 +47,7 @@
 
 ## Adblock Filter List 
 
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 
 ## Astro 
@@ -328,7 +329,6 @@
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
 - [hbons/git-cheat-sheet](https://github.com/hbons/git-cheat-sheet) - A cheat sheet for Git workflows.
-- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
 - [anudeepND/blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
