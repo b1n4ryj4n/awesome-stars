@@ -128,6 +128,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) - 
 - [ckulka/docker-multi-arch-example](https://github.com/ckulka/docker-multi-arch-example) - TL;DR reference for building multi-arch Docker images
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [flosoft/docker-joplin-server](https://github.com/flosoft/docker-joplin-server) - Joplin Server docker image
@@ -160,6 +161,7 @@
 
 ## Go 
 
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [Mikescher/better-docker-ps](https://github.com/Mikescher/better-docker-ps) - Because `docker ps` is annoying and does not fit my monitor/terminal width
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
