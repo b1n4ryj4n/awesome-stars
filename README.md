@@ -418,6 +418,7 @@
 
 ## Python 
 
+- [AbhijithAJ/clrprint](https://github.com/AbhijithAJ/clrprint) - Print colorful output in the terminal, idle, cmd, and Windows PowerShell using the same functions.
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
 - [mehdipourfar/pacgen](https://github.com/mehdipourfar/pacgen) - Generate pac file from yml rules
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
