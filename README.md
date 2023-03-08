@@ -74,6 +74,7 @@
 
 ## C# # 
 
+- [1Remote/1Remote](https://github.com/1Remote/1Remote) - Personal Remote Manager
 - [microsoft/hack-together](https://github.com/microsoft/hack-together) - Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.
 - [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Windows tool to check for NVIDIA GPU driver updates
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
