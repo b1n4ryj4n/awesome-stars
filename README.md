@@ -38,6 +38,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
@@ -598,6 +599,10 @@
 - [Joentje/nordvpn-proxy](https://github.com/Joentje/nordvpn-proxy) - Use NordVPN in your Docker stack
 - [jlesage/docker-filebot](https://github.com/jlesage/docker-filebot) - Docker container for FileBot
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+
+## Swift 
+
+- [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 
 ## TeX 
 
