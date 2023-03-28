@@ -469,7 +469,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [VoidlessVoid7/quora-plus-bypass](https://github.com/VoidlessVoid7/quora-plus-bypass) - A python script to extract answers to any question on Quora (Quora+ included)
+- [NitinN77/quora-plus-bypass](https://github.com/NitinN77/quora-plus-bypass) - A python script to extract answers to any question on Quora (Quora+ included)
 - [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
