@@ -40,6 +40,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -215,7 +216,6 @@
 
 ## HTML 
 
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
 - [bit-bots/imagetagger](https://github.com/bit-bots/imagetagger) - An open source online platform for collaborative image labeling
@@ -610,6 +610,10 @@
 ## TeX 
 
 - [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) - A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Twig 
 
