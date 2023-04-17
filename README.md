@@ -422,6 +422,7 @@
 
 ## Python 
 
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) - RectLabel is an offline image annotation tool for object detection and segmentation.
 - [AbhijithAJ/clrprint](https://github.com/AbhijithAJ/clrprint) - Print colorful output in the terminal, idle, cmd, and Windows PowerShell using the same functions.
@@ -621,6 +622,7 @@
 
 ## TypeScript 
 
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
