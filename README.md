@@ -431,7 +431,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [iguana-project/iguana](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board.
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
