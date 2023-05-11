@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter) - FileShelter is a “one-click” file sharing web application
 - [scrubbbbs/cbird](https://github.com/scrubbbbs/cbird) - Command-line program for managing a media collection, with focus on Content-Based Image Retrieval (Computer Vision) methods for finding duplicates.
 - [tnodir/fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
@@ -426,6 +427,9 @@
 
 ## Python 
 
+- [LukeShortCloud/rootpages](https://github.com/LukeShortCloud/rootpages) - Root Pages is a collection of easy-to-reference tutorials and guides primarily for Linux and other UNIX-like systems.
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) - RectLabel is an offline image annotation tool for object detection and segmentation.
