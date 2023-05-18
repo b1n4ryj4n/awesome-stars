@@ -165,6 +165,7 @@
 
 ## Go 
 
+- [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [Mikescher/better-docker-ps](https://github.com/Mikescher/better-docker-ps) - Because `docker ps` is annoying and does not fit my monitor/terminal width
@@ -226,6 +227,7 @@
 
 ## Java 
 
+- [BiscuitDevelopment/SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - A Minecraft Forge mod with helpful Hypixel skyblock features!
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Quantizr/DungeonRoomsMod](https://github.com/Quantizr/DungeonRoomsMod) - A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds Secret Waypoints to Dungeons
 - [scoute-dich/browser](https://github.com/scoute-dich/browser) - A simple Android webbrowser based on webview.
