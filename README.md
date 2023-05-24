@@ -261,7 +261,7 @@
 - [Soopyboo32/SoopyV2](https://github.com/Soopyboo32/SoopyV2) - A chattriggers module for Hypixel Skyblock that adds many quality of life features
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
