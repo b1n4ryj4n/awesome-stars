@@ -217,7 +217,7 @@
 - [Dentrax/GMDB](https://github.com/Dentrax/GMDB) - GMDB is the ultra-simple, cross-platform Movie Library with Features (Search, Take Note, Watch Later, Like, Import, Learn, Instantly Torrent Magnet Watch)
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## HTML 
 
