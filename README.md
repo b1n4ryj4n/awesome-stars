@@ -437,6 +437,7 @@
 
 ## Python 
 
+- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [appleappleapplenanner/hydrus-video-deduplicator](https://github.com/appleappleapplenanner/hydrus-video-deduplicator) - WIP Deduplicator for Hydrus Network
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [0x454447415244/HandwritingRecognitionSystem](https://github.com/0x454447415244/HandwritingRecognitionSystem) - Handwriting Recognition System based on a deep Convolutional Recurrent Neural Network architecture
