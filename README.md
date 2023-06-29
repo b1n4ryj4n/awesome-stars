@@ -438,9 +438,10 @@
 
 ## Python 
 
+- [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [arthurflor23/handwritten-text-recognition](https://github.com/arthurflor23/handwritten-text-recognition) - Handwritten Text Recognition (HTR) System using TensorFlow
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [appleappleapplenanner/hydrus-video-deduplicator](https://github.com/appleappleapplenanner/hydrus-video-deduplicator) - WIP Deduplicator for Hydrus Network
+- [appleappleapplenanner/hydrus-video-deduplicator](https://github.com/appleappleapplenanner/hydrus-video-deduplicator) - Video Deduplicator for the Hydrus Network
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [0x454447415244/HandwritingRecognitionSystem](https://github.com/0x454447415244/HandwritingRecognitionSystem) - Handwriting Recognition System based on a deep Convolutional Recurrent Neural Network architecture
 - [LukeShortCloud/rootpages](https://github.com/LukeShortCloud/rootpages) - Root Pages is a collection of easy-to-reference tutorials and guides primarily for Linux and other UNIX-like systems.
