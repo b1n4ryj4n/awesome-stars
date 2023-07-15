@@ -134,6 +134,7 @@
 ## Dart 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
@@ -322,7 +323,7 @@
 
 ## Kotlin 
 
-- [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Confirm on discord.gg/skytils
+- [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Confirm on discord.gg/skytils (807302538558308352)
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [Utazukin/Ichaival](https://github.com/Utazukin/Ichaival) - Android client for the LANraragi manga/doujinshi web manager.
@@ -645,8 +646,7 @@
 
 - [OfficeDev/office-js-docs-reference](https://github.com/OfficeDev/office-js-docs-reference) - Microsoft Office JavaScript API Reference
 - [OfficeDev/Office-Add-in-Commands](https://github.com/OfficeDev/Office-Add-in-Commands) - [Moved] Sample that illustrates how to add custom commands to the Office Ribbon and Context Menus
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
