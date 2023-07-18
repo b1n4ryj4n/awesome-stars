@@ -644,6 +644,7 @@
 
 ## TypeScript 
 
+- [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [OfficeDev/office-js-docs-reference](https://github.com/OfficeDev/office-js-docs-reference) - Microsoft Office JavaScript API Reference
 - [OfficeDev/Office-Add-in-Commands](https://github.com/OfficeDev/Office-Add-in-Commands) - [Moved] Sample that illustrates how to add custom commands to the Office Ribbon and Context Menus
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
