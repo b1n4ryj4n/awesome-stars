@@ -251,7 +251,6 @@
 - [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 - [HypixelDev/PublicAPI](https://github.com/HypixelDev/PublicAPI) - Official Java implementation of the Hypixel Public API.
 - [digitalfondue/lavagna](https://github.com/digitalfondue/lavagna) - Lavagna: issue tracker/project management tool
-- [Adamantcheese/Kuroba](https://github.com/Adamantcheese/Kuroba) - Kuroba - imageboard browser for Android
 - [barry-allen07/FB-Mod](https://github.com/barry-allen07/FB-Mod) - FB-Mod
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 - [dukke/FXRibbon](https://github.com/dukke/FXRibbon) - Ribbon control for Java, created in JavaFX
@@ -299,6 +298,7 @@
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [stackacademytv/master-electron](https://github.com/stackacademytv/master-electron) - Master Electron Course Demos
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
+- [Adamantcheese/Kuroba](https://github.com/Adamantcheese/Kuroba) - Kuroba - imageboard browser for Android
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [shaack/electron-bootstrap-starter](https://github.com/shaack/electron-bootstrap-starter) - Electron with Bootstrap 4 starter project
 - [happypandax/desktop](https://github.com/happypandax/desktop) - A client for HappyPanda X on the desktop
@@ -472,7 +472,7 @@
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [linuxserver/docker-netbox](https://github.com/linuxserver/docker-netbox) - 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
