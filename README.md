@@ -345,7 +345,6 @@
 
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [woahbase/alpine-searx](https://github.com/woahbase/alpine-searx) - Searx Metasearch Engine on Alpine Linux + S6 + Python3
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -390,6 +389,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [axlt2002/repo.light.imdb.ratings.update](https://github.com/axlt2002/repo.light.imdb.ratings.update) - Light IMDb Ratings Update is a Kodi add-on that keeps updated the IMDb ratings for your movies and TV shows.
 - [allienx/libdvdcss-dll](https://github.com/allienx/libdvdcss-dll) - Compiled libdvdcss library for Windows. Ready for use with Handbrake.
