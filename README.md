@@ -139,7 +139,7 @@
 
 ## Dockerfile 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) - 
 - [ckulka/docker-multi-arch-example](https://github.com/ckulka/docker-multi-arch-example) - TL;DR reference for building multi-arch Docker images
