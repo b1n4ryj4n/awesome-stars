@@ -243,7 +243,6 @@
 - [BiscuitDevelopment/SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - A Minecraft Forge mod with helpful Hypixel skyblock features!
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Quantizr/DungeonRoomsMod](https://github.com/Quantizr/DungeonRoomsMod) - A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds Secret Waypoints to Dungeons
-- [scoute-dich/browser](https://github.com/scoute-dich/browser) - A simple Android webbrowser based on webview.
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for grocy
 - [maruohon/litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
