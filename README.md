@@ -163,7 +163,7 @@
 ## Elixir 
 
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Elm 
 
@@ -647,6 +647,7 @@
 
 ## TypeScript 
 
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [OfficeDev/office-js-docs-reference](https://github.com/OfficeDev/office-js-docs-reference) - Microsoft Office JavaScript API Reference
