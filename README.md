@@ -614,6 +614,7 @@
 
 ## Shell 
 
+- [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) - The ReVanced APKs
 - [jlesage/docker-video-duplicate-finder](https://github.com/jlesage/docker-video-duplicate-finder) - Docker container for Video Duplicate Finder
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
