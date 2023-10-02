@@ -442,6 +442,7 @@
 
 ## Python 
 
+- [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2d video to sbs 3d video; etc
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [arthurflor23/handwritten-text-recognition](https://github.com/arthurflor23/handwritten-text-recognition) - Handwritten Text Recognition (HTR) Project using TensorFlow
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
