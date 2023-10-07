@@ -352,6 +352,7 @@
 
 ## Others 
 
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2023. with learning resources
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
