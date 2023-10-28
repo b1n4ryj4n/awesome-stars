@@ -128,7 +128,6 @@
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ChoiceCoin/Voting](https://github.com/ChoiceCoin/Voting) - A repository for voting systems using Choice Coin.
-- [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 
 ## Clojure 
 
@@ -318,6 +317,7 @@
 - [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
 - [fakob/MoviePrint_v004](https://github.com/fakob/MoviePrint_v004) - MoviePrint | A tool which lets you create screenshots of entire movies in an instant.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 - [DEgITx/rats-search](https://github.com/DEgITx/rats-search) - BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [mccormicka/md-book](https://github.com/mccormicka/md-book) - 
@@ -495,7 +495,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [polvoazul/shutup](https://github.com/polvoazul/shutup) - Stop python warnings, no matter what!
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which w
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
