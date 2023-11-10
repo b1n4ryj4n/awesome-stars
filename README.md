@@ -246,6 +246,7 @@
 
 ## Java 
 
+- [NotEnoughUpdates/NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates) - A feature rich 1.8.9 Minecraft Forge mod for Hypixel SkyBlock.
 - [MDeLuise/ytsms](https://github.com/MDeLuise/ytsms) - 📺 Self-hosted, open source YouTube subscription management system
 - [BiscuitDevelopment/SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - A Minecraft Forge mod with helpful Hypixel skyblock features!
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
