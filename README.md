@@ -79,6 +79,7 @@
 
 ## C# # 
 
+- [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 - [microsoft/hack-together](https://github.com/microsoft/hack-together) - Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.
