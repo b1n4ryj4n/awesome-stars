@@ -339,7 +339,7 @@
 - [hannibal002/SkyHanni](https://github.com/hannibal002/SkyHanni) - SkyHanni is a Minecraft Mod for Hypixel SkyBlock.
 - [Tobi823/ffupdater](https://github.com/Tobi823/ffupdater) - FFUpdater: Updater for privacy friendly browser
 - [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [Utazukin/Ichaival](https://github.com/Utazukin/Ichaival) - Android client for the LANraragi manga/doujinshi web manager.
 
