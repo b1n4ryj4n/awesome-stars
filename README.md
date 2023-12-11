@@ -272,6 +272,7 @@
 
 ## JavaScript 
 
+- [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink) - Simple self-hosted bookmark service.
 - [LeaPhant/skyblock-stats](https://github.com/LeaPhant/skyblock-stats) - A beautiful SkyBlock profile viewer 🌹
 - [Divested-Mobile/Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix) - Build scripts for a web browser built upon Mozilla technology
 - [OfficeDev/Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
