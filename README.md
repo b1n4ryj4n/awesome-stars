@@ -118,7 +118,6 @@
 - [jveitchmichaelis/deeplabel](https://github.com/jveitchmichaelis/deeplabel) - A cross-platform desktop image annotation tool for machine learning
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (and podcast player) which supports RSS/ATOM/JSON and many web-based feed services.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
-- [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.
 - [kristiankoskimaki/vidupe](https://github.com/kristiankoskimaki/vidupe) - Vidupe is a program that can find duplicate and similar video files. V1.211 released on 2019-09-18, Windows exe here:
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
@@ -195,7 +194,7 @@
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟‍♀️
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [akhilrex/hammond](https://github.com/akhilrex/hammond) - Self hosted vehicle and expense management system. Like Clarkson, but better
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -309,7 +308,6 @@
 - [dobladov/koreader-node-sync-server](https://github.com/dobladov/koreader-node-sync-server) - Self hostable synchronization service for koreader devices for node.js
 - [drainingsun/ybat](https://github.com/drainingsun/ybat) - Ybat - YOLO BBox Annotation Tool
 - [SkyCryptWebsite/SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) - A Hypixel skyblock stats website
-- [DerDomee/skyblock-stats](https://github.com/DerDomee/skyblock-stats) - Semi-Fork of sky.lea.moe, showing advanced Hypixel Skyblock stats.
 - [gatsbyjs/gatsby-starter-hello-world](https://github.com/gatsbyjs/gatsby-starter-hello-world) - Starter with the bare essentials needed for a Gatsby site
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -422,7 +420,7 @@
 
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a strategic project management system for non-project managers.
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
