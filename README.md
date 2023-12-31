@@ -465,6 +465,7 @@
 
 ## Python 
 
+- [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
 - [Nitrokey/nitrokey-app2](https://github.com/Nitrokey/nitrokey-app2) - 
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2d video to sbs 3d video; etc
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
