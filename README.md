@@ -169,7 +169,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, and user/group sync.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Elm 
@@ -468,7 +468,7 @@
 
 - [b-jesch/service.nfo.updater](https://github.com/b-jesch/service.nfo.updater) - Updates the watched state of movies or episodes in Kodi
 - [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
-- [Nitrokey/nitrokey-app2](https://github.com/Nitrokey/nitrokey-app2) - 
+- [Nitrokey/nitrokey-app2](https://github.com/Nitrokey/nitrokey-app2) - Graphical application to manage and use Nitrokey 3 devices
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2d video to sbs 3d video; etc
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [arthurflor23/handwritten-text-recognition](https://github.com/arthurflor23/handwritten-text-recognition) - Handwritten Text Recognition (HTR) Project using TensorFlow
