@@ -148,7 +148,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) - 
-- [ckulka/docker-multi-arch-example](https://github.com/ckulka/docker-multi-arch-example) - TL;DR reference for building multi-arch Docker images
+- [ckulka/docker-multi-arch-example](https://github.com/ckulka/docker-multi-arch-example) - TL;DR reference for building multi-arch Docker images on Docker Hub
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [flosoft/docker-joplin-server](https://github.com/flosoft/docker-joplin-server) - Joplin Server docker image
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
