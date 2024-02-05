@@ -469,6 +469,7 @@
 
 ## Python 
 
+- [shoumikchow/bbox-visualizer](https://github.com/shoumikchow/bbox-visualizer) - Make drawing and labeling bounding boxes easy as cake
 - [b-jesch/service.nfo.updater](https://github.com/b-jesch/service.nfo.updater) - Updates the watched state of movies or episodes in Kodi
 - [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
 - [Nitrokey/nitrokey-app2](https://github.com/Nitrokey/nitrokey-app2) - Graphical application to manage and use Nitrokey 3 devices
