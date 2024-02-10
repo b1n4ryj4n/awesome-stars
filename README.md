@@ -93,7 +93,7 @@
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android](https://github.com/dynamsoft-dnt/Wireless-TWAIN-Scan-on-Android) - Wireless TWAIN Document Scan on Android
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl) - A program to search similar and defect pictures on the disk
 - [nostrenz/hatate-iqdb-tagger](https://github.com/nostrenz/hatate-iqdb-tagger) - Search and tag images using IQDB or SauceNAO to be imported into Hydrus.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
