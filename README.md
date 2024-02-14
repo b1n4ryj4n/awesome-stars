@@ -80,6 +80,7 @@
 
 ## C# # 
 
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices
@@ -258,6 +259,7 @@
 
 ## Java 
 
+- [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für die Fritz!Box
 - [NotEnoughUpdates/NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates) - A feature rich 1.8.9 Minecraft Forge mod for Hypixel SkyBlock.
 - [MDeLuise/ytsms](https://github.com/MDeLuise/ytsms) - 📺 Self-hosted, open source YouTube subscription management system
 - [BiscuitDevelopment/SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - A Minecraft Forge mod with helpful Hypixel skyblock features!
