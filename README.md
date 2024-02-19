@@ -39,6 +39,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [Text](#text)
@@ -662,6 +663,10 @@
 - [Joentje/nordvpn-proxy](https://github.com/Joentje/nordvpn-proxy) - Use NordVPN in your Docker stack
 - [jlesage/docker-filebot](https://github.com/jlesage/docker-filebot) - Docker container for FileBot
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+
+## Svelte 
+
+- [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 
 ## Swift 
 
