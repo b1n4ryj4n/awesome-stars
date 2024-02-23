@@ -200,7 +200,7 @@
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [akhilrex/hammond](https://github.com/akhilrex/hammond) - Self hosted vehicle and expense management system. Like Clarkson, but better
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -608,7 +608,7 @@
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [jelmerdejong/flask-app-blueprint](https://github.com/jelmerdejong/flask-app-blueprint) - Flask App Blueprint / Boilerplate including user registration/login, admin only section, CRUD on database, and more. Based on Python, Flask, PostgreSQL, et al. deployed on Heroku. The #1 starter proje
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [SethMMorton/natsort](https://github.com/SethMMorton/natsort) - Simple yet flexible natural sorting in Python.
 - [zestsoftware/zest.releaser](https://github.com/zestsoftware/zest.releaser) - Python software releasing made easy and repeatable
