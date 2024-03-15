@@ -264,7 +264,7 @@
 - [NotEnoughUpdates/NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates) - A feature rich 1.8.9 Minecraft Forge mod for Hypixel SkyBlock.
 - [MDeLuise/ytsms](https://github.com/MDeLuise/ytsms) - 📺 Self-hosted, open source YouTube subscription management system
 - [BiscuitDevelopment/SkyblockAddons](https://github.com/BiscuitDevelopment/SkyblockAddons) - A Minecraft Forge mod with helpful Hypixel skyblock features!
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [Quantizr/DungeonRoomsMod](https://github.com/Quantizr/DungeonRoomsMod) - A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds Secret Waypoints to Dungeons
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for grocy
