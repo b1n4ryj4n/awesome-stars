@@ -287,6 +287,7 @@
 - [Dawjaw/HoeUtilitiesV3](https://github.com/Dawjaw/HoeUtilitiesV3) - 
 - [balzack/databag](https://github.com/balzack/databag) - A tiny selfhosted federated messenger for the decentralized web.
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [Soopyboo32/SoopyV2](https://github.com/Soopyboo32/SoopyV2) - A chattriggers module for Hypixel Skyblock that adds many quality of life features
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
@@ -527,7 +528,7 @@
 - [petretiandrea/home-assistant-tapo-p100](https://github.com/petretiandrea/home-assistant-tapo-p100) - A custom integration to control Tapo devices from home assistant.
 - [Rockhopper-Technologies/pluginlib](https://github.com/Rockhopper-Technologies/pluginlib) - A framework for creating and importing plugins in Python
 - [mitsuhiko/pluginbase](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
