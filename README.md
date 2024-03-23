@@ -284,7 +284,7 @@
 - [Divested-Mobile/Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix) - Build scripts for a web browser built upon Mozilla technology
 - [OfficeDev/Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
 - [Dawjaw/HoeUtilitiesV3](https://github.com/Dawjaw/HoeUtilitiesV3) - 
-- [balzack/databag](https://github.com/balzack/databag) - A tiny selfhosted federated messenger for the decentralized web.
+- [balzack/databag](https://github.com/balzack/databag) - A tiny self-hosted federated messenger for the decentralized web.
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
