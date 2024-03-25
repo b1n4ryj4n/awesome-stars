@@ -648,6 +648,7 @@
 
 ## Shell 
 
+- [MISP/misp-docker](https://github.com/MISP/misp-docker) - A production ready Dockered MISP
 - [cisagov/gophish-docker](https://github.com/cisagov/gophish-docker) - Docker container for the gophish phishing framework.
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) - The ReVanced APKs
 - [jlesage/docker-video-duplicate-finder](https://github.com/jlesage/docker-video-duplicate-finder) - Docker container for Video Duplicate Finder
