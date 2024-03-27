@@ -467,6 +467,7 @@
 
 ## PowerShell 
 
+- [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ## Python 
