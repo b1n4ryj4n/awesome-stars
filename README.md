@@ -650,6 +650,7 @@
 
 ## Shell 
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [vicalloy/outline-docker-compose](https://github.com/vicalloy/outline-docker-compose) - Install a self-hosted Outline wiki instance in a couple of minutes
 - [MISP/misp-docker](https://github.com/MISP/misp-docker) - A production ready Dockered MISP
 - [cisagov/gophish-docker](https://github.com/cisagov/gophish-docker) - Docker container for the gophish phishing framework.
