@@ -477,7 +477,7 @@
 - [b-jesch/service.nfo.updater](https://github.com/b-jesch/service.nfo.updater) - Updates the watched state of movies or episodes in Kodi
 - [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
 - [Nitrokey/nitrokey-app2](https://github.com/Nitrokey/nitrokey-app2) - Graphical application to manage and use Nitrokey 3 devices
-- [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2d video to sbs 3d video; etc
+- [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to SBS 3D video
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [arthurflor23/handwritten-text-recognition](https://github.com/arthurflor23/handwritten-text-recognition) - Handwritten Text Recognition (HTR) Project using TensorFlow
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -486,7 +486,7 @@
 - [LukeShortCloud/rootpages](https://github.com/LukeShortCloud/rootpages) - Root Pages is a collection of easy-to-reference tutorials and guides primarily for Linux and other UNIX-like systems.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ryouchinsa/Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) - RectLabel is an offline image annotation tool for object detection and segmentation.
 - [AbhijithAJ/clrprint](https://github.com/AbhijithAJ/clrprint) - Print colorful output in the terminal, idle, cmd, and Windows PowerShell using the same functions.
@@ -711,7 +711,7 @@
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [floogulinc/hyshare](https://github.com/floogulinc/hyshare) - Share Hydrus galleries and files on the web
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 - [BateleurIO/vscode-combine-files](https://github.com/BateleurIO/vscode-combine-files) - Creates a single combined script from several SQL files.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
