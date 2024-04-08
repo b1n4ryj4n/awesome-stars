@@ -81,6 +81,7 @@
 
 ## C# # 
 
+- [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
@@ -467,6 +468,7 @@
 
 ## PowerShell 
 
+- [techspence/ADeleginator](https://github.com/techspence/ADeleginator) - A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
