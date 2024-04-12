@@ -470,6 +470,7 @@
 
 ## PowerShell 
 
+- [Xorlent/NPS-Log-Visualizer](https://github.com/Xorlent/NPS-Log-Visualizer) - Parser and visualization tool for Microsoft NPS / RADIUS logs
 - [techspence/ADeleginator](https://github.com/techspence/ADeleginator) - A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory
 - [tomwechsler/Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting) - This repo is about Active Directory Advanced Threat Hunting
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
