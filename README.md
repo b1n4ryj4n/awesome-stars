@@ -281,12 +281,13 @@
 
 ## JavaScript 
 
+- [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink) - Simple self-hosted bookmark service.
 - [LeaPhant/skyblock-stats](https://github.com/LeaPhant/skyblock-stats) - A beautiful SkyBlock profile viewer 🌹
 - [Divested-Mobile/Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix) - Build scripts for a web browser built upon Mozilla technology
 - [OfficeDev/Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
 - [Dawjaw/HoeUtilitiesV3](https://github.com/Dawjaw/HoeUtilitiesV3) - 
-- [balzack/databag](https://github.com/balzack/databag) - A tiny self-hosted federated messenger for the decentralized web.
+- [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
@@ -477,6 +478,7 @@
 
 ## Python 
 
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 - [shoumikchow/bbox-visualizer](https://github.com/shoumikchow/bbox-visualizer) - Make drawing and labeling bounding boxes easy as cake
 - [b-jesch/service.nfo.updater](https://github.com/b-jesch/service.nfo.updater) - Updates the watched state of movies or episodes in Kodi
