@@ -262,6 +262,7 @@
 
 ## Java 
 
+- [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons) - Unofficial updated fork of SBA
 - [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für die Fritz!Box
 - [NotEnoughUpdates/NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates) - A feature rich 1.8.9 Minecraft Forge mod for Hypixel SkyBlock.
 - [MDeLuise/ytsms](https://github.com/MDeLuise/ytsms) - 📺 Self-hosted, open source YouTube subscription management system
