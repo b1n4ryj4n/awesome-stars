@@ -6,6 +6,7 @@
 ## Contents
 
 - [Adblock Filter List](#adblock-filter-list)
+- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Blade](#blade)
 - [C](#c)
@@ -53,6 +54,10 @@
 
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+
+## Astro 
+
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## AutoHotkey 
 
@@ -187,7 +192,7 @@
 ## Go 
 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Robust AI driven development in your terminal. Designed for large, real-world tasks in new or existing codebases.
 - [Hentra/dyndns-netcup-go](https://github.com/Hentra/dyndns-netcup-go) - Dynamic DNS client for the netcup dns api written in go.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
@@ -264,6 +269,7 @@
 
 ## Java 
 
+- [oxen-io/session-android](https://github.com/oxen-io/session-android) - A private messenger for Android.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons) - Unofficial updated fork of SBA
 - [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für die Fritz!Box
@@ -600,7 +606,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [Setogit/labelimg-data-converter](https://github.com/Setogit/labelimg-data-converter) - Converts labelimg meta data to yolo format.  See https://github.com/tzutalin/labelImg
-- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix) - FastFlix is a free GUI for HEVC and AV1 encoding, GIF/WebP/AVIF creation, and more!
 - [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [algorand/py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) - Algorand Python SDK
