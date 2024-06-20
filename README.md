@@ -144,7 +144,6 @@
 
 ## CSS 
 
-- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ChoiceCoin/Voting](https://github.com/ChoiceCoin/Voting) - A repository for voting systems using Choice Coin.
 
@@ -186,6 +185,7 @@
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
 - [linuxserver/docker-heimdall](https://github.com/linuxserver/docker-heimdall) - 
+- [linuxserver/docker-freshrss](https://github.com/linuxserver/docker-freshrss) - 
 
 ## Elixir 
 
@@ -260,6 +260,7 @@
 
 ## HTML 
 
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [Nitrokey/dongleauth](https://github.com/Nitrokey/dongleauth) - List of sites with two factor auth support for OTP and U2F hardware dongles.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
@@ -267,7 +268,6 @@
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [danielyxie/bitburner](https://github.com/danielyxie/bitburner) - Bitburner Game
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
-- [linuxserver/docker-freshrss](https://github.com/linuxserver/docker-freshrss) - 
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
@@ -739,6 +739,7 @@
 
 ## TypeScript 
 
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI. Written in TypeScript/Node
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
