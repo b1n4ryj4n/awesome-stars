@@ -523,7 +523,7 @@
 - [Nitrokey/nitrokey-app2](https://github.com/Nitrokey/nitrokey-app2) - Graphical application to manage and use Nitrokey 3 devices
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to SBS 3D video
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
-- [arthurflor23/handwritten-text-recognition](https://github.com/arthurflor23/handwritten-text-recognition) - Handwritten Text Recognition (HTR) Project using TensorFlow
+- [arthurflor23/handwritten-text-recognition](https://github.com/arthurflor23/handwritten-text-recognition) - Handwritten Text Recognition using TensorFlow
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [hydrusvideodeduplicator/hydrus-video-deduplicator](https://github.com/hydrusvideodeduplicator/hydrus-video-deduplicator) - Video Deduplicator for the Hydrus Network
 - [0x454447415244/HandwritingRecognitionSystem](https://github.com/0x454447415244/HandwritingRecognitionSystem) - Handwriting Recognition System based on a deep Convolutional Recurrent Neural Network architecture
