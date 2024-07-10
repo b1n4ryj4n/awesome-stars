@@ -282,7 +282,6 @@
 
 ## Java 
 
-- [oxen-io/session-android](https://github.com/oxen-io/session-android) - A private messenger for Android.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons) - Unofficial updated fork of SBA
 - [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für die Fritz!Box
@@ -377,6 +376,7 @@
 
 ## Kotlin 
 
+- [oxen-io/session-android](https://github.com/oxen-io/session-android) - A private messenger for Android.
 - [hannibal002/SkyHanni](https://github.com/hannibal002/SkyHanni) - SkyHanni is a Minecraft Mod for Hypixel SkyBlock.
 - [Tobi823/ffupdater](https://github.com/Tobi823/ffupdater) - FFUpdater: Updater for privacy friendly browser
 - [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
