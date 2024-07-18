@@ -748,6 +748,7 @@
 
 ## TypeScript 
 
+- [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is a Windows WireGuard VPN client built for split tunnelling.
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI. Written in TypeScript/Node
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
