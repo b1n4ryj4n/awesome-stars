@@ -531,7 +531,7 @@
 - [b-jesch/service.nfo.updater](https://github.com/b-jesch/service.nfo.updater) - Updates the watched state of movies or episodes in Kodi
 - [SIMKL/script.simkl](https://github.com/SIMKL/script.simkl) - Kodi add-on for Simkl
 - [Nitrokey/nitrokey-app2](https://github.com/Nitrokey/nitrokey-app2) - Graphical application to manage and use Nitrokey 3 devices
-- [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to SBS 3D video
+- [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [arthurflor23/handwritten-text-recognition](https://github.com/arthurflor23/handwritten-text-recognition) - Handwritten Text Recognition using TensorFlow
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
