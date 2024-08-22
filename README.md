@@ -520,7 +520,7 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [aniqfakhrul/powerview.py](https://github.com/aniqfakhrul/powerview.py) - Just another Powerview alternative
 - [sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow](https://github.com/sushant097/Handwritten-Line-Text-Recognition-using-Deep-Learning-with-Tensorflow) - Use Convolutional Recurrent Neural Network to recognize the Handwritten line text image without pre segmentation into words or characters. Use CTC loss Function to train.
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [Alienpups/OpenVoice](https://github.com/Alienpups/OpenVoice) - Instant voice cloning by MyShell.
 - [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
