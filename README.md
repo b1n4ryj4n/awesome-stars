@@ -752,7 +752,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [bitwarden/directory-connector](https://github.com/bitwarden/directory-connector) - A tool for syncing a directory (AD, LDAP, Azure, G Suite, Okta) to an organization.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
