@@ -431,7 +431,6 @@
 - [rainyear/javascript-in-one-pic](https://github.com/rainyear/javascript-in-one-pic) - Learn javascript in one picture.
 - [arbal/awesome-stars](https://github.com/arbal/awesome-stars) - Top 15K of GitHub's finest.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [thatfuckingbird/hydownloader](https://github.com/thatfuckingbird/hydownloader) - Moved to https://gitgud.io/thatfuckingbird/hydownloader
 - [manjunath5496/DevOps-Books](https://github.com/manjunath5496/DevOps-Books) - "DevOps has helped us do very frequent releases, giving us an edge on time to market. We are now able to make daily product releases as opposed to 6-month releases, and push fixes to our customers in 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
@@ -476,7 +475,7 @@
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
 - [kcal-app/kcal](https://github.com/kcal-app/kcal) - the personal food nutrition journal
