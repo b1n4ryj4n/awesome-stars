@@ -210,7 +210,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [Hentra/dyndns-netcup-go](https://github.com/Hentra/dyndns-netcup-go) - Dynamic DNS client for the netcup dns api written in go.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
