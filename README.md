@@ -285,6 +285,7 @@
 
 ## Java 
 
+- [SkyblockerMod/Skyblocker](https://github.com/SkyblockerMod/Skyblocker) - Hypixel Skyblock fabric Mod for latest minecraft version
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons) - Unofficial updated fork of SBA
 - [haumacher/phoneblock](https://github.com/haumacher/phoneblock) - Der Spam-Filter für die Fritz!Box
