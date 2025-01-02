@@ -89,6 +89,7 @@
 
 ## C# # 
 
+- [DamianMorozov/TgDownloader](https://github.com/DamianMorozov/TgDownloader) - Telegram Files Downloader
 - [seerge/g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
 - [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
 - [SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
@@ -288,6 +289,7 @@
 
 ## Java 
 
+- [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A simple telegram file downloader.
 - [SkyblockerMod/Skyblocker](https://github.com/SkyblockerMod/Skyblocker) - Hypixel Skyblock fabric Mod for latest minecraft version
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [Fix3dll/SkyblockAddons](https://github.com/Fix3dll/SkyblockAddons) - Unofficial updated fork of SBA
@@ -654,7 +656,7 @@
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [Pylons/waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 3
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with an emphasis on reliability, correctness, and performance at scale.
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [rr-/szurubooru](https://github.com/rr-/szurubooru) - Image board engine, Danbooru-style.
 - [romanvm/plugin.video.example](https://github.com/romanvm/plugin.video.example) - Very simple video plugin for Kodi mediacenter
